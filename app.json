@@ -1,0 +1,27 @@
+{
+  "id": "7a7d3479-e693-4f3d-8336-aac424523190",
+  "name": "Gtask Kuara",
+  "publisher": "MayByCloud",
+  "brief": "",
+  "description": "",
+  "version": "2.0.6.8",
+  "privacyStatement": "",
+  "EULA": "",
+  "help": "",
+  "url": "http://www.kuarasoftware.com",
+  "logo": "res/kuarasoft.png",
+  "target": "Cloud",
+    "dependencies": [],
+  "screenshots": [],
+  "platform": "25.0.0.0",
+  "application": "25.0.0.0",
+  "idRanges": [{
+    "from": 80100,
+    "to": 80449
+  }],
+ 
+  "contextSensitiveHelpUrl": "https://Ecomon.com/help/",
+  "showMyCode": true,
+  "runtime": "13.1",
+  "features": ["TranslationFile"]
+}

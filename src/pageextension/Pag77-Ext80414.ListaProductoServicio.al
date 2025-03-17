@@ -1,4 +1,4 @@
-pageextension 80414 "Lista Producto Servicio" extends "Resource List"
+pageextension 80414 "Lista Producto Servicio" extends "Resource List" //77
 {
 
     layout

@@ -1,4 +1,4 @@
-pageextension 80109 "Configuración Contabilidad" extends "General Ledger Setup"
+pageextension 80109 "Configuración Contabilidad" extends "General Ledger Setup" //118
 {
     layout
     {

@@ -1,4 +1,4 @@
-pageextension 80413 "Ficha Producto Servicio" extends "Resource Card"
+pageextension 80413 "Ficha Producto Servicio" extends "Resource Card" //76
 {
     Caption = 'Ficha Producto Servicio';
     PromotedActionCategories = 'Nuevo,Proceso,Informes,Navegar,Producto';

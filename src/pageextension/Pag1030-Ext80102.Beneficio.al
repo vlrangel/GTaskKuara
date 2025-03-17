@@ -1,4 +1,4 @@
-pageextension 80102 Beneficio extends "Job Cost Factbox"
+pageextension 80102 Beneficio extends "Job Cost Factbox" //1030
 {
     layout
     {

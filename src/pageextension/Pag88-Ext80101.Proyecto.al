@@ -1,4 +1,4 @@
-pageextension 80101 Proyecto extends "Job Card"
+pageextension 80101 Proyecto extends "Job Card" //88
 {
     actions
     {

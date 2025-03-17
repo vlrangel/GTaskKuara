@@ -1,4 +1,4 @@
-pageextension 80112 SalRecSetup extends "Sales & Receivables Setup"
+pageextension 80112 SalRecSetup extends "Sales & Receivables Setup" //459
 {
     layout
     {

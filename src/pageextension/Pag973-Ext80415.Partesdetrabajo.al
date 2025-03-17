@@ -1,4 +1,4 @@
-pageextension 80415 "Partes de trabajo" extends "Time Sheet Card"
+pageextension 80415 "Partes de trabajo" extends "Time Sheet Card" //973
 {
 
     Caption = 'Partes de trabajo';

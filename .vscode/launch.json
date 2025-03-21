@@ -5,14 +5,18 @@
             "name": "Microsoft cloud sandbox",
             "request": "launch",
             "type": "al",
-            "environmentType": "Sandbox",
-            "environmentName": "sandbox24",
+            // "environmentType": "Sandbox",
+            // "environmentName": "sandbox24",
+            //PADGRUOP
+            "tenant": "2c9046bd-c626-47d2-a0ac-8c0f04ef874e",
+            "environmentName": "ZZ_ENE25_PADGROUP",
             "startupObjectId": 22,
             "startupObjectType": "Page",
             "breakOnError": "All",
             "launchBrowser": true,
             "enableLongRunningSqlStatements": true,
-            "enableSqlInformationDebugger": true
+            "enableSqlInformationDebugger": true,
+            "schemaUpdateMode": "ForceSync"
         }
     ]
 }
